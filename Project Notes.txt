@@ -1,0 +1,27 @@
+Project Notes:
+
+python version:Python 3.7.4
+pip version: pip 19.2.3 
+
+----------------------------------------------------------------------------------------------
+                        virtual environment and pipenv      
+----------------------------------------------------------------------------------------------
+1. create a new app NOW-proper cloth
+
+2. create virtual environment for proper cloth
+                [ python -m venv NOW-PC ]
+    -> activare virtual environment:
+                [ .\NOW-PC\Scripts\activate ]
+    -> deactivate virtual environment: 
+                [ deactivate ]
+
+3. install pipenv for managing versions of library used in this project:
+                [ pip install pipenv ]
+        
+    -> to install a new package use:
+                [ pipenv install requests ]
+
+----------------------------------------------------------------------------------------------
+                                GIT     
+----------------------------------------------------------------------------------------------
+
